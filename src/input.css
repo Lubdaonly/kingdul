@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-py-blue: #306998;
+  --color-py-sky: #4B8BBE;
+  --color-py-logo: #3776AB;
+  --color-py-yellow: #FFD43B;
+  --color-py-cream: #FFE873;
+  --color-py-gray: #646464;
+}
